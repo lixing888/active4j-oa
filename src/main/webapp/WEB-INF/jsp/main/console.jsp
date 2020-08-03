@@ -67,7 +67,7 @@
         </div>
     <div class="row  border-bottom white-bg dashboard-header">
         <div class="col-sm-3">
-            <h2>Hello,Guest</h2>
+            <h2>您好！尊敬的用户</h2>
             <small>欢迎扫描以下二维码关注我们：</small>
             <br>
             <br>
