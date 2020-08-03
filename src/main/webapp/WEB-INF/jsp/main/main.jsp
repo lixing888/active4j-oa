@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+<%@ page language="java" pageEncoding="UTF-8"%>
 <%@include file="/context/mytags.jsp"%>
 <!DOCTYPE html>
 <html>
@@ -113,7 +113,7 @@
                 <ul class="nav" id="side-menu">
                     <li class="nav-header">
                         <div class="dropdown profile-element">
-                    		 <p class="sysTitle">active4j-oa演示系统</p>
+                    		 <p class="sysTitle">省政府OA办公系统</p>
                         </div>
                     </li>
                     

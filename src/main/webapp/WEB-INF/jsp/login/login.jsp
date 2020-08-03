@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>active4j-oa演示系统</title>
-    <meta name="keywords" content="active4j-oa演示系统">
-    <meta name="description" content="active4j-oa演示系统">
+    <title>省政府OA办公系统</title>
+    <meta name="keywords" content="省政府OA办公系统">
+    <meta name="description" content="省政府OA办公系统">
     <link rel="shortcut icon" href="static/bootstrap/image/favicon.ico"> 
     <link href="static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="static/bootstrap/css/font-awesome.min.css" rel="stylesheet">
@@ -24,7 +24,7 @@
             <div>
                 <h3 class="logo-name">YC</h3>
             </div>
-            <h3>active4j-oa演示系统</h3>
+            <h3>省政府OA办公系统</h3>
             <form class="form-horizontal m-t" id="signupForm" action="login" method="post">
                 <div class="form-group">
                     <input type="text" name="userName" id="userName" value="admin" class="form-control" placeholder="用户名" required="">
